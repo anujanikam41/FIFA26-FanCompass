@@ -1,0 +1,13 @@
+# Python Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python internal cache
+__pycache__/
+*.pyc
+
+# Security Safeguard: Never track localized private keys
+.env
+.env.local
